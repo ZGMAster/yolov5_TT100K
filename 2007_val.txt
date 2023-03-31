@@ -1,0 +1,815 @@
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10009.jpg 1296,932,1319,957,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10020.jpg 1424,877,1501,963,13 1425,970,1501,1056,14
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10098.jpg 1673,942,1713,982,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10122.jpg 1802,913,1826,942,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10283.jpg 1986,1165,2040,1239,1 1463,1055,1494,1090,9 1392,1056,1423,1089,26 1427,1057,1459,1093,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10313.jpg 1582,841,1626,888,4 1582,897,1626,942,4 1586,946,1626,992,4 1534,893,1580,941,22 1537,945,1580,994,22 1534,842,1578,889,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10397.jpg 1309,999,1339,1030,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10418.jpg 906,868,952,917,20 843,868,889,917,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10426.jpg 664,921,690,943,2 576,923,598,949,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10434.jpg 177,781,214,852,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10606.jpg 93,984,128,1032,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10720.jpg 88,939,103,955,0 44,967,55,984,1 1569,1014,1627,1081,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/10926.jpg 1172,982,1190,999,31 1126,991,1137,1002,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/11143.jpg 818,966,834,999,11 1571,870,1601,901,24 1604,871,1633,903,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/1120.jpg 1453,1017,1487,1051,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/11222.jpg 1307,907,1345,947,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/11722.jpg 1231,840,1269,878,2 1373,940,1392,962,9 1350,939,1371,960,28 1394,941,1415,962,35 1049,839,1088,877,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/11877.jpg 86,906,110,934,0 6,898,30,926,1 1189,928,1209,950,2 1326,946,1343,964,9 1295,946,1309,962,28 1311,946,1327,965,35 1103,928,1128,951,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/11916.jpg 1764,893,1840,977,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12182.jpg 1425,914,1441,934,31 1444,915,1461,934,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12186.jpg 1036,1024,1061,1049,40 472,1009,492,1025,9 475,981,490,1005,13 473,1031,489,1048,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12229.jpg 1398,661,1487,746,25 1506,670,1591,756,35 1356,963,1395,999,39 1353,1009,1392,1042,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12333.jpg 1356,991,1380,1015,16 1129,980,1145,998,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12604.jpg 1738,478,1848,591,1 98,462,198,568,2 1197,858,1227,892,9 1159,858,1194,893,31 1231,855,1267,893,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12654.jpg 1173,608,1274,712,9 1060,604,1166,705,28 1283,620,1379,720,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12686.jpg 1569,815,1603,859,2 194,902,236,951,7 1897,865,1923,898,9 1838,857,1867,896,28 1868,860,1894,896,35 1398,810,1439,855,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12747.jpg 1371,854,1391,873,10 1432,929,1454,952,15 1144,949,1171,974,8 644,980,670,1004,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12799.jpg 555,974,601,1023,2 1049,954,1098,1009,9 1047,1007,1098,1061,27 189,982,217,1015,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12803.jpg 295,672,364,746,2 117,708,173,779,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12842.jpg 182,613,262,737,20 68,570,160,705,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12893.jpg 155,366,293,492,20
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/12901.jpg 1702,876,1730,902,9 1673,874,1700,903,26 1732,873,1762,904,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13058.jpg 1148,958,1188,1002,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13101.jpg 1668,890,1704,937,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13266.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/133.jpg 1243,905,1260,927,9 1221,909,1238,927,26 1266,906,1284,927,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13368.jpg 50,717,103,785,31 105,730,154,799,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13567.jpg 1258,928,1276,953,2 1184,934,1201,951,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13812.jpg 1054,962,1082,993,9 1053,994,1082,1024,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/13915.jpg 861,1168,889,1198,29 911,1168,926,1199,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14025.jpg 1394,977,1448,1037,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14179.jpg 1017,930,1041,959,13 1783,614,1844,716,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14391.jpg 1834,945,1870,989,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14420.jpg 156,1033,184,1064,32 0,848,17,880,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14460.jpg 490,942,545,1002,31 1444,960,1473,989,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14505.jpg 1280,883,1307,912,9 1711,595,1778,679,16 1252,881,1281,911,29 1309,885,1336,912,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14558.jpg 856,918,879,945,31 854,951,877,977,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14679.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14688.jpg 919,1057,976,1112,11
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14846.jpg 923,967,940,987,2 871,970,884,986,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/14872.jpg 355,653,398,738,31 401,676,440,753,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15274.jpg 298,839,335,910,7
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15287.jpg 1802,774,1836,816,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15305.jpg 949,597,1042,683,4 1213,599,1305,683,4 691,612,778,697,5 599,620,686,705,22 852,602,944,686,22 1115,597,1209,680,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15513.jpg 1717,862,1769,922,22 1773,773,1824,830,23 1773,865,1821,926,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15709.jpg 1349,882,1375,909,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15713.jpg 1325,716,1384,773,9 1322,649,1384,706,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15777.jpg 1211,958,1240,985,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/15778.jpg 1289,837,1328,873,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/1618.jpg 2023,1087,2045,1115,2 1787,1057,1801,1075,29 1802,1056,1817,1073,35 1968,1095,1991,1127,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16207.jpg 1138,934,1157,956,9 1118,934,1136,953,31 1159,935,1179,956,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16299.jpg 1492,696,1538,744,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16305.jpg 1690,925,1769,1004,9 1678,772,1756,848,26 1683,850,1760,927,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16446.jpg 907,927,926,949,2 830,934,848,950,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/1663.jpg 1323,952,1425,1058,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16705.jpg 358,998,379,1017,2 1857,838,1914,894,13 1293,966,1366,1037,21
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16790.jpg 366,494,445,575,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16814.jpg 1724,978,1773,1029,29 1722,1030,1777,1084,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16843.jpg 1253,988,1278,1012,7
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16916.jpg 967,892,991,915,3 1108,890,1132,912,4 1039,891,1061,913,5 940,867,964,889,13 967,866,991,888,15 1012,891,1036,913,22 941,892,964,915,23 1080,889,1106,913,31 1166,889,1188,912,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16982.jpg 1362,865,1388,890,4 1434,869,1460,893,4 1293,862,1314,888,5 1264,862,1289,886,22 1337,864,1361,888,22 1408,865,1433,892,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/16984.jpg 1247,773,1287,812,4 1500,918,1546,970,23 792,780,828,816,23 972,773,1010,811,23 1175,772,1214,811,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17097.jpg 1206,929,1233,966,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17103.jpg 534,780,576,825,35 888,848,938,897,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17213.jpg 787,863,822,899,2 1159,904,1182,930,9 1107,909,1132,932,26 1131,906,1155,932,35 660,869,686,900,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17292.jpg 157,1088,294,1264,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17317.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17363.jpg 1392,1134,1421,1158,1 546,1247,597,1307,2 353,1222,400,1280,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17582.jpg 1908,1018,1962,1074,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17589.jpg 1994,1187,2014,1213,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/17814.jpg 1086,786,1142,842,19
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18203.jpg 1109,885,1146,941,8 962,1015,1010,1082,10 1044,871,1086,936,13 1164,893,1202,948,13 1030,1023,1074,1084,17 1919,993,1939,1042,25 62,762,94,795,26 57,897,91,930,29 114,998,147,1031,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18241.jpg 1711,731,1760,794,1 175,897,221,947,7 1818,797,1852,838,26 1856,803,1886,840,35 1490,709,1550,776,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18366.jpg 1313,756,1372,819,9 1252,750,1309,819,28 1378,758,1439,823,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18390.jpg 1627,521,1737,633,9 1358,494,1478,617,26 1498,515,1611,629,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18397.jpg 1574,825,1610,865,9 1612,827,1650,867,29 1652,832,1687,871,35 1693,929,1716,955,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/1849.jpg 1197,916,1238,958,7 1336,858,1390,912,25 1338,912,1394,965,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18504.jpg 1786,869,1902,996,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18507.jpg 220,953,257,1002,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18622.jpg 820,931,872,985,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18658.jpg 1229,989,1265,1025,10 328,1262,490,1439,12 1232,950,1267,988,13 1025,926,1054,955,14 914,887,945,916,25 946,888,974,917,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18678.jpg 1166,908,1207,949,7 641,939,667,969,7 1348,814,1451,907,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18717.jpg 1485,984,1517,1018,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18798.jpg 106,917,148,981,8 108,1004,153,1046,17
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/18799.jpg 1676,1037,1697,1058,16 1384,971,1405,991,16 1384,993,1402,1008,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/19082.jpg 765,958,804,1018,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/1951.jpg 1500,928,1517,946,26 1373,920,1389,939,29 1519,929,1535,947,35 1391,921,1408,939,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/19711.jpg 581,985,604,1033,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/19715.jpg 138,914,184,954,35 1375,956,1405,990,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/19747.jpg 1880,56,2043,239,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/19858.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2.jpg 1296,769,1344,822,4 844,776,893,826,5 965,771,1017,822,22 757,779,807,831,22 1207,769,1259,820,31 489,993,507,1010,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/20134.jpg 1604,892,1631,921,2 1492,888,1515,917,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/204.jpg 1250,918,1270,942,2 1168,919,1189,937,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2066.jpg 1551,938,1612,994,39 1550,1003,1612,1055,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/20683.jpg 1766,985,1786,1005,39 1766,963,1787,986,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/20986.jpg 1322,909,1381,969,0 1229,907,1295,969,1 923,1025,946,1047,7 1312,760,1355,800,18 1110,763,1169,823,29 1173,763,1234,824,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21032.jpg 1458,752,1500,790,3 1698,774,1730,810,4 1412,704,1452,742,13 1458,708,1497,746,15 1412,748,1452,788,23 1781,781,1812,820,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21088.jpg 296,585,337,657,10 241,644,289,721,17 294,662,337,738,21 345,684,382,756,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2121.jpg 896,823,942,870,2 1133,936,1152,957,26 1152,937,1173,959,35 712,829,753,877,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21302.jpg 1286,834,1336,885,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21419.jpg 1706,948,1735,984,16 1324,936,1337,950,31 1339,936,1353,951,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21444.jpg 1828,898,1882,952,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21699.jpg 1109,944,1126,962,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21745.jpg 1228,896,1242,913,1 1926,892,1938,913,35 1177,893,1194,912,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21774.jpg 1192,912,1211,932,8 1170,811,1217,857,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21891.jpg 1249,416,1391,544,24 1518,451,1640,565,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21959.jpg 1982,817,2016,858,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/21973.jpg 1744,781,1824,874,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22006.jpg 102,841,212,948,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22067.jpg 1276,970,1336,1035,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22208.jpg 32,610,86,689,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22468.jpg 414,932,485,1000,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2257.jpg 1389,1070,1422,1100,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22688.jpg 1568,985,1591,1016,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22824.jpg 1145,794,1190,838,25 1233,929,1273,968,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/22974.jpg 1215,892,1241,916,24 1246,889,1271,916,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2352.jpg 1192,818,1232,860,4 832,798,870,838,5 1013,805,1050,846,5 1672,882,1708,926,19 662,789,720,845,20 745,794,781,832,22 926,802,964,838,22 1108,812,1144,850,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/23630.jpg 1196,798,1239,841,25 1254,800,1288,839,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/23651.jpg 846,837,883,875,2 1170,927,1189,949,9 1146,928,1165,948,28 1193,926,1214,949,35 674,849,708,885,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/23934.jpg 1496,857,1522,892,9 1465,857,1493,888,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24190.jpg 1327,941,1403,1028,8 1562,956,1617,1013,9 1553,879,1622,955,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24196.jpg 1490,966,1517,993,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2430.jpg 484,988,516,1034,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24357.jpg 782,1006,804,1025,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24414.jpg 601,986,645,1036,2 1524,733,1610,817,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24583.jpg 1951,920,1976,965,12 1182,958,1228,998,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24597.jpg 1721,1126,1750,1152,0 1626,1123,1653,1149,1 1135,1262,1198,1331,2 888,1254,947,1317,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24611.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24812.jpg 878,927,897,947,2 1062,943,1076,958,26 805,930,824,948,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/24953.jpg 184,1015,217,1051,36 1378,994,1402,1022,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25067.jpg 860,924,880,948,2 782,926,803,947,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25192.jpg 376,692,450,764,2 213,719,270,788,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25217.jpg 1619,913,1639,937,26 1454,902,1476,927,29 1641,915,1661,937,35 1480,902,1500,928,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25287.jpg 1498,641,1595,737,29 1383,633,1482,735,35 1264,615,1369,711,39
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25397.jpg 1437,944,1501,1008,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25404.jpg 1,920,83,1011,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25451.jpg 1211,932,1261,981,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25722.jpg 1435,614,1487,669,4 1052,580,1113,636,5 656,584,717,641,5 770,570,860,664,20 528,591,583,646,22 911,576,970,636,22 1308,598,1365,656,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25778.jpg 1774,712,1841,788,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25844.jpg 336,662,418,749,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/25991.jpg 133,730,222,842,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2643.jpg 22,960,45,985,11
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/26446.jpg 580,968,598,1009,13 616,965,629,1007,15
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/26490.jpg 498,1020,573,1096,16 1097,980,1116,998,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2666.jpg 605,517,688,601,2 129,598,194,664,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/26702.jpg 361,830,380,874,9 332,823,357,868,31 384,834,401,880,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/26715.jpg 1544,928,1613,998,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/26892.jpg 1612,614,1739,753,25 993,929,1007,943,28 1011,929,1025,942,35 1611,886,1739,1018,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/269.jpg 1086,185,1238,293,4 287,290,400,395,4 1803,309,1901,410,4 763,200,880,315,31 1546,244,1647,356,31 75,370,147,477,31 294,944,358,1012,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/26915.jpg 134,931,157,953,24 1912,717,1976,791,28 1983,721,2045,798,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27040.jpg 1546,506,1650,620,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27124.jpg 2016,794,2044,836,1 1712,978,1730,998,2 1907,778,1940,822,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27136.jpg 1722,1049,1896,1238,11
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27168.jpg 1143,762,1200,820,1 333,978,385,1040,2 1085,763,1141,821,13 1025,764,1083,822,19
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27179.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27237.jpg 271,899,285,929,2 913,909,935,930,2 186,889,200,921,36 814,914,831,932,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27325.jpg 910,936,926,953,2 849,935,865,954,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27371.jpg 985,901,1004,918,3 1102,898,1120,915,4 965,882,982,899,13 984,881,1003,898,15 965,901,983,918,23 1148,897,1166,914,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27520.jpg 543,871,584,930,31 543,938,584,999,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27958.jpg 1741,870,1774,906,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/27989.jpg 1433,768,1467,803,3 1629,773,1659,804,4 1534,768,1565,802,5 1390,728,1424,763,13 1435,731,1467,764,15 1492,767,1525,802,22 1390,765,1424,800,23 1590,772,1619,804,31 1695,777,1723,811,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2799.jpg 915,798,948,837,26 560,928,595,969,31 950,803,982,842,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28006.jpg 980,856,1029,898,20
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28228.jpg 125,868,198,957,2 1473,829,1590,949,13 729,324,901,473,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28230.jpg 1219,925,1237,943,0 1154,924,1173,945,1 885,911,905,932,2 788,912,808,933,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28322.jpg 893,808,946,861,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28391.jpg 715,985,744,1019,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2840.jpg 1307,996,1326,1018,16 1114,987,1130,1003,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28530.jpg 929,797,974,841,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28539.jpg 1511,1066,1555,1113,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28631.jpg 595,846,689,937,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28635.jpg 730,949,768,993,7
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/2875.jpg 1324,923,1384,990,8 1330,986,1381,1036,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28894.jpg 333,977,360,1009,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/28960.jpg 696,861,731,892,2 1055,981,1086,1017,35 560,865,594,906,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29015.jpg 838,1003,871,1039,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29071.jpg 1283,901,1352,974,9 961,532,1043,609,26 1281,973,1349,1048,35 1281,836,1361,905,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29102.jpg 845,925,871,953,31 846,955,872,981,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29196.jpg 1940,1021,1969,1047,7 386,705,434,792,13 269,651,323,753,29 332,677,381,773,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29231.jpg 229,1050,300,1134,2 1233,1010,1253,1035,26 1485,648,1566,734,29 138,1047,197,1128,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29273.jpg 1628,916,1706,997,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29313.jpg 1117,713,1194,790,9 1037,713,1113,786,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29532.jpg 1700,962,1751,1017,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29548.jpg 975,886,998,910,3 1113,886,1136,907,4 1044,885,1066,908,5 949,862,972,885,13 974,862,997,884,15 1018,886,1040,908,22 950,887,972,910,23 1088,886,1110,908,31 1168,886,1192,907,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29593.jpg 1465,944,1491,974,13 1615,944,1635,973,17
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29805.jpg 609,998,639,1025,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29819.jpg 1096,889,1125,920,9 1064,889,1093,921,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29863.jpg 1554,948,1586,978,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29987.jpg 245,925,267,946,0 178,930,199,949,1 1923,625,1994,717,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/29998.jpg 1457,825,1492,862,4 1552,832,1582,865,4 1637,837,1669,874,4 1357,821,1393,858,5 1321,821,1354,854,22 1422,825,1456,858,22 1517,830,1548,862,22 1608,837,1637,870,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/30144.jpg 1350,30,1653,218,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/30220.jpg 788,906,815,934,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3027.jpg 1835,1182,1873,1224,28 1876,1180,1913,1220,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/30523.jpg 1368,828,1460,919,39 1368,919,1459,1010,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/307.jpg 864,832,911,882,8 915,834,959,878,11
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3070.jpg 1154,954,1170,971,31 1154,972,1170,989,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/30838.jpg 997,834,1035,873,4 1102,833,1143,872,4 888,839,929,878,5 852,841,887,877,22 958,837,992,873,22 1063,834,1101,871,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/30920.jpg 1569,850,1596,878,13 1472,934,1502,964,20 1508,856,1537,885,25 1539,856,1566,887,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/31028.jpg 209,788,238,838,31 240,794,266,842,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/31423.jpg 875,819,914,969,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/31765.jpg 786,876,820,907,2 1156,911,1179,939,9 1129,914,1152,936,28 1182,911,1207,938,35 659,878,691,909,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/31814.jpg 230,1010,294,1082,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/321.jpg 902,976,928,1004,2 1802,931,1840,962,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/32181.jpg 12,657,82,738,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/32277.jpg 1911,462,1999,592,2 826,945,846,967,26 849,946,871,965,35 1687,625,1739,718,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3233.jpg 751,537,861,635,29 864,537,970,638,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/32406.jpg 520,905,565,954,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/32635.jpg 1357,916,1389,951,0 1448,941,1508,1006,1 737,984,768,1017,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/32862.jpg 1537,1034,1632,1140,13 1593,693,1662,764,29 1597,772,1663,846,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33013.jpg 1422,870,1487,941,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33024.jpg 1672,916,1689,938,9 1649,915,1667,938,31 1694,917,1713,938,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3304.jpg 1805,640,1870,723,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33188.jpg 1923,907,2006,1003,26 1928,819,2009,905,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33381.jpg 1938,998,1978,1040,35 1583,971,1605,988,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33810.jpg 1108,976,1127,995,16 1153,970,1181,996,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33902.jpg 1528,850,1568,889,2 1360,850,1407,888,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/33930.jpg 494,633,560,694,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34106.jpg 1394,1006,1415,1027,25 1246,996,1260,1009,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34111.jpg 660,948,727,1020,9 1319,949,1363,995,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34251.jpg 284,497,353,610,0
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34571.jpg 479,460,524,558,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3464.jpg 900,982,923,1003,15 900,953,920,975,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34665.jpg 1252,925,1269,947,2 1177,924,1196,945,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34697.jpg 995,527,1092,610,14 1183,626,1277,716,20 998,629,1092,715,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34867.jpg 529,936,628,1041,2 1005,774,1060,825,26 180,953,228,1033,36 1064,774,1116,825,42 1429,962,1466,996,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34978.jpg 1481,946,1528,1004,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/34983.jpg 1337,1113,1366,1144,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35022.jpg 1886,588,1996,705,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35211.jpg 9,810,44,857,4 82,826,116,870,31 197,852,222,890,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35250.jpg 969,983,995,1012,2 764,966,834,1034,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35402.jpg 1553,827,1584,862,3 1706,845,1736,878,4 1755,845,1795,891,21 1484,822,1518,859,23 1647,839,1676,873,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35419.jpg 854,982,867,998,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35496.jpg 1210,996,1225,1014,9 1357,594,1424,663,26 1209,979,1227,997,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35507.jpg 1070,886,1100,918,9 1036,887,1069,919,29 1103,885,1134,917,35 1167,957,1193,985,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35574.jpg 1639,922,1676,965,7 1160,905,1188,935,9 1101,903,1128,931,28 1128,900,1157,936,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35669.jpg 1327,768,1390,836,9 1253,772,1319,839,28 1400,773,1461,839,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35769.jpg 1393,1004,1413,1028,26 1432,994,1468,1036,10 1309,1001,1338,1030,13 945,629,1042,717,20 1329,1029,1356,1057,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35841.jpg 1549,795,1592,842,2 1557,896,1576,919,9 1534,896,1555,916,28 1580,896,1601,920,35 1369,786,1412,833,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35857.jpg 1356,795,1457,901,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35861.jpg 1370,854,1402,890,29 1369,900,1402,934,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35958.jpg 1735,886,1786,944,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/35996.jpg 1570,717,1626,777,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36.jpg 1748,1159,1823,1232,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36072.jpg 233,866,254,894,2 1330,922,1348,944,2 131,851,156,881,36 1236,918,1257,939,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36078.jpg 773,960,800,987,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36150.jpg 724,857,754,888,2 1196,870,1226,901,31 1229,871,1257,900,35 542,864,567,893,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36272.jpg 1855,874,1903,925,18 1098,946,1109,958,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3629.jpg 1701,955,1779,1031,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36517.jpg 750,710,810,770,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36853.jpg 1908,905,1970,992,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/36939.jpg 55,994,118,1072,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37038.jpg 1114,986,1172,1042,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37039.jpg 1518,512,1609,598,4 1090,488,1192,578,5 636,509,739,602,5 900,487,1000,583,22 468,534,559,621,22 1347,495,1444,588,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37237.jpg 795,824,824,864,20
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37349.jpg 863,954,879,973,12 812,906,831,927,29 815,933,833,954,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37378.jpg 1227,872,1247,893,8 1119,954,1131,967,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37728.jpg 1752,943,1782,981,16 1748,987,1777,1015,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37815.jpg 1900,729,1972,814,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/37902.jpg 1234,930,1255,952,2 1415,940,1429,953,9 1393,938,1412,959,26 1433,938,1452,960,35 1152,929,1173,950,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38079.jpg 900,933,916,950,2 1123,940,1138,959,9 1809,911,1903,1011,11 1085,940,1102,957,28 1103,939,1119,958,35 829,934,848,954,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38129.jpg 99,729,137,782,28 1899,944,1918,964,28 1900,964,1919,984,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38142.jpg 843,798,879,833,3 797,760,830,790,13 843,755,877,788,15
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38167.jpg 1850,969,1890,1024,8 1960,980,1988,1024,9 1955,923,1995,979,35 1174,964,1212,1005,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38518.jpg 88,952,137,1010,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38560.jpg 1019,327,1211,484,29 1244,335,1432,492,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/38778.jpg 1893,995,1918,1024,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39.jpg 710,1118,727,1140,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3914.jpg 715,580,755,685,2 393,815,417,865,9 330,803,360,856,28 364,809,389,863,35 498,431,576,569,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39375.jpg 1020,1217,1051,1251,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3947.jpg 23,686,88,763,2 1928,939,1946,955,2 39,852,64,892,9 10,847,40,893,35 1863,932,1881,957,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39475.jpg 1631,828,1673,871,39 1676,831,1712,872,42 1728,958,1765,989,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39485.jpg 1414,759,1461,808,0 660,788,697,832,1 1201,831,1246,875,14 1315,759,1358,804,26 1171,761,1214,805,28 1122,761,1167,807,30 1222,761,1267,807,35 462,808,492,845,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39565.jpg 1332,1020,1358,1046,9 1366,711,1424,766,26 1323,979,1362,1010,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39576.jpg 78,972,109,1013,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39586.jpg 1446,880,1477,909,39 1480,881,1507,909,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3972.jpg 1564,579,1668,679,29 1563,691,1665,796,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/39879.jpg 1621,940,1714,1038,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/3997.jpg 1086,726,1154,793,4 1330,737,1398,802,4 836,726,904,794,5 713,732,778,797,22 957,725,1025,793,22 1206,733,1276,797,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40121.jpg 1428,879,1461,909,2 1616,909,1637,934,9 1784,950,1803,971,13 1591,911,1613,934,31 1640,911,1661,934,35 1304,876,1336,909,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4021.jpg 1177,576,1282,670,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40317.jpg 1246,950,1277,980,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40320.jpg 1280,950,1328,1001,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40452.jpg 440,994,457,1017,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40522.jpg 1269,1002,1334,1071,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40722.jpg 810,966,830,987,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40876.jpg 870,816,919,933,36 960,673,1036,741,11 962,784,1037,855,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40922.jpg 1706,982,1778,1058,31 1709,1058,1781,1134,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40965.jpg 1140,869,1186,917,29 1189,870,1234,918,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/40982.jpg 526,933,620,1069,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4107.jpg 1344,961,1355,976,13 1415,904,1438,929,28 1438,905,1462,929,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4115.jpg 431,1006,448,1035,2 1104,948,1121,965,26 413,1004,429,1037,36 1606,1022,1621,1053,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/41560.jpg 1725,1024,1756,1070,27 1969,952,1997,986,27 768,704,829,765,31 1312,933,1336,957,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/41758.jpg 1946,889,2001,949,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/41761.jpg 704,557,803,654,1 1135,871,1152,890,25 1343,936,1376,966,29 1343,969,1376,1001,35 444,588,531,674,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/41889.jpg 1696,936,1716,978,7
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4210.jpg 1458,835,1499,880,25 1414,834,1457,880,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42102.jpg 170,1016,225,1089,29 169,940,221,1014,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42108.jpg 1809,886,1905,984,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42154.jpg 169,870,191,904,0 114,880,134,909,1
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4238.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42416.jpg 1495,773,1554,836,29 1497,841,1557,903,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42501.jpg 1682,724,1822,868,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42555.jpg 1921,978,1937,1009,2 1896,980,1917,1003,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4256.jpg 1847,814,1883,854,0 1113,822,1155,865,1 1764,810,1803,851,26 1642,806,1680,849,28 1593,805,1637,848,30 1686,807,1726,849,35 894,830,931,871,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42568.jpg 748,1058,769,1108,16 461,959,488,1011,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42612.jpg 1289,970,1340,1024,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42647.jpg 1423,654,1517,735,9 1237,643,1331,729,26 1337,649,1421,733,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42661.jpg 1580,984,1662,1073,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42720.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42818.jpg 615,644,656,738,9 659,671,697,760,29 697,696,732,780,35 776,913,818,975,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42905.jpg 1828,1073,1858,1106,10 1800,1075,1828,1110,13 1862,1074,1890,1107,13 177,998,193,1020,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/42930.jpg 1885,634,1951,703,0 1412,557,1497,641,1 1211,970,1227,986,1 907,1028,923,1046,2 905,560,985,640,19
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4313.jpg 1751,322,1892,463,29 1897,364,2029,507,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43172.jpg 1814,757,1861,816,31 1864,769,1910,825,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43248.jpg 1564,892,1590,918,0 1275,889,1301,918,2 1360,926,1375,944,9 1342,926,1356,945,28 1377,926,1394,943,35 1182,889,1209,915,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43387.jpg 1390,996,1429,1033,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4348.jpg 780,899,812,932,13 776,860,815,901,25 744,821,784,862,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43601.jpg 165,951,180,967,2 1046,966,1059,983,2 1951,900,1967,923,2 105,948,119,965,36 994,969,1008,984,36 1907,910,1919,932,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43622.jpg 111,857,209,968,24 101,967,200,1080,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43649.jpg 1900,559,1978,665,9 1794,540,1888,653,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43773.jpg 957,856,1002,896,28 1002,855,1044,897,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/43886.jpg 1062,909,1082,934,26 1069,976,1098,1008,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4393.jpg 1098,882,1135,919,0 946,878,986,915,1 820,880,848,909,28 857,878,884,909,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44056.jpg 1581,874,1607,904,31 1611,875,1637,906,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/442.jpg 736,903,759,928,9 704,904,732,931,26 763,903,790,930,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44235.jpg 1306,989,1326,1012,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44238.jpg 29,987,58,1016,39 30,954,59,985,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44295.jpg 1165,966,1189,988,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44361.jpg 1743,692,1785,746,28 1792,701,1835,754,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44549.jpg 92,737,137,801,4 46,726,92,788,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44581.jpg 268,1181,286,1205,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44678.jpg 744,982,786,1025,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44689.jpg 611,875,704,991,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44887.jpg 1776,1018,1829,1073,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44936.jpg 1275,936,1310,971,10 900,843,939,880,28 1042,845,1077,883,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/44966.jpg 1808,885,1864,949,10 1806,948,1866,1006,17 1264,756,1309,798,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/45061.jpg 131,568,211,668,2 1290,811,1333,856,9 1176,815,1227,866,26 1233,807,1278,860,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/45187.jpg 1816,921,1870,975,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/45213.jpg 1905,821,1969,898,22 1906,938,1969,1014,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/45542.jpg 1369,934,1386,953,24 1387,935,1403,954,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/45770.jpg 1632,670,1672,726,13 1584,660,1629,720,29 1673,680,1713,734,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/45903.jpg 1916,801,1988,888,26 1919,889,1993,981,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46120.jpg 1118,936,1141,961,35 826,910,852,938,2 1141,932,1164,960,9 1097,936,1114,958,28 723,910,750,940,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46138.jpg 2014,972,2035,1003,1 1764,977,1785,1012,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46180.jpg 1076,969,1092,985,29 1095,970,1111,986,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46305.jpg 1067,876,1094,901,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46630.jpg 1641,960,1657,979,29 1659,962,1676,981,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46820.jpg 1840,901,1952,1018,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46979.jpg 871,922,888,939,9 850,921,867,940,26 892,921,911,941,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/46989.jpg 1548,928,1618,1008,20
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/47156.jpg 1901,953,1995,1068,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/47190.jpg 585,540,707,661,3 1382,511,1503,629,4 1169,506,1296,622,22 406,571,511,684,23 768,524,894,644,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/47306.jpg 1089,596,1181,686,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4744.jpg 1659,802,1710,851,8 1658,922,1704,970,13 1610,914,1657,964,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/47547.jpg 854,928,880,953,2 1127,966,1140,984,9 1107,968,1123,984,28 1145,968,1161,985,35 756,929,781,954,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/47647.jpg 760,986,812,1036,9 761,934,809,985,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/47682.jpg 1502,832,1549,879,2 1761,904,1785,931,29 1820,942,1845,971,34 1788,905,1813,934,35 1245,822,1295,873,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/480.jpg 1446,736,1506,798,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48218.jpg 747,851,766,874,8 1245,818,1292,866,16 1084,810,1132,861,26 1294,821,1336,865,35 1164,800,1202,838,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48271.jpg 1685,758,1786,884,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48338.jpg 1343,925,1378,968,34 371,997,387,1014,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4843.jpg 1343,681,1415,755,0 983,676,1060,752,1 726,788,740,820,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48482.jpg 817,893,844,926,2 1160,917,1184,943,9 1107,915,1134,940,28 1135,915,1157,940,35 703,893,731,925,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4863.jpg 2001,932,2019,955,2 515,822,533,868,9 494,814,515,861,31 535,828,550,870,35 1953,928,1969,952,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48738.jpg 1401,961,1433,996,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48751.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48866.jpg 1447,530,1543,630,26 1563,547,1650,639,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/48887.jpg 1935,412,2045,535,28 1801,379,1933,506,30
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4900.jpg 1368,917,1422,976,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/49372.jpg 924,887,940,911,11 465,917,521,977,11 462,826,522,882,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4951.jpg 1981,656,2042,734,5 1900,636,1967,717,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/4999.jpg 837,508,952,612,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/49997.jpg 1879,921,1918,971,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/50191.jpg 1273,897,1300,925,2 1178,901,1205,926,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/50329.jpg 1937,793,2002,870,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/50472.jpg 1446,1012,1492,1055,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/50549.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/50756.jpg 152,1066,224,1150,2 1616,992,1712,1090,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51001.jpg 1322,781,1370,831,9 1265,779,1314,827,31 1378,781,1425,831,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51111.jpg 1442,924,1490,973,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51180.jpg 1376,924,1404,956,2 1742,770,1809,894,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51258.jpg 602,1030,632,1054,9 604,1000,630,1028,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51306.jpg 940,854,967,882,3 1108,862,1136,888,4 1025,857,1051,884,5 910,822,936,849,13 942,824,969,851,15 992,856,1020,883,22 908,853,935,879,23 1077,860,1103,887,31 1177,866,1204,892,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51373.jpg 290,545,348,634,1 482,645,517,719,28 513,664,545,729,35 807,982,842,1018,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51461.jpg 913,919,932,941,1 831,917,856,943,36 1156,356,1319,500,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51500.jpg 1339,1023,1361,1060,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5163.jpg 1277,942,1310,970,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51896.jpg 1492,596,1592,694,9 1288,588,1390,682,26 1400,586,1492,686,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/51899.jpg 1217,993,1235,1010,24 1721,966,1816,1065,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5200.jpg 1641,930,1786,1064,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52080.jpg 1259,892,1281,918,1 1422,884,1443,910,28 1448,888,1463,910,35 1128,889,1153,917,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52358.jpg 1133,976,1165,1005,16 1133,1006,1153,1027,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52429.jpg 1213,961,1242,989,7 1504,952,1530,981,29 1548,792,1585,833,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52463.jpg 1162,777,1214,828,9 1098,779,1153,830,26 1220,772,1272,832,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5262.jpg 743,1101,779,1159,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52658.jpg 219,416,292,505,10 603,772,709,903,14 311,501,396,605,17 419,472,516,583,21
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52773.jpg 1747,929,1832,1016,24 1239,487,1374,593,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52821.jpg 1290,1015,1320,1047,2 1784,980,1823,1019,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52894.jpg 686,184,902,349,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/52974.jpg 1194,782,1235,823,9 1146,783,1189,823,28 1241,784,1283,826,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53027.jpg 1524,967,1565,1004,19
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53038.jpg 546,839,565,885,26 385,766,420,824,28 344,755,382,814,30 412,842,458,900,35 1971,988,1986,1009,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53101.jpg 1907,578,1982,684,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5313.jpg 1576,894,1670,989,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53145.jpg 1753,973,1781,1005,24
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53201.jpg 1443,948,1463,970,26 1464,949,1485,972,35 451,575,510,696,2 27,869,59,911,9 0,861,26,897,35 152,394,252,544,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5335.jpg 418,994,437,1045,8 1254,694,1325,762,24 1337,700,1403,768,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53410.jpg 202,287,293,436,21 301,356,372,498,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53421.jpg 1596,659,1643,708,8 1151,945,1169,964,13 1311,957,1324,968,25 1323,958,1335,970,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53600.jpg 882,893,917,964,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53677.jpg 1130,933,1149,952,31 1150,933,1169,952,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/53796.jpg 1069,978,1103,1009,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/54039.jpg 1724,940,1758,989,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/54251.jpg 964,768,1019,827,31 1023,768,1077,825,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/54551.jpg 1826,862,1857,898,9 1799,859,1825,894,31 1858,864,1884,900,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/54774.jpg 1884,1025,1938,1087,9 1882,966,1934,1025,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/54792.jpg 1214,836,1240,864,27 1534,868,1557,894,27 1817,913,1838,938,27 1494,1064,1513,1086,27 1742,1072,1756,1089,27 1202,1070,1222,1096,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/54864.jpg 2003,844,2026,873,25 2031,839,2047,880,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5501.jpg 1430,845,1477,893,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/55305.jpg 1735,919,1757,946,2 1787,946,1803,963,9 1769,942,1785,960,26 1807,945,1822,963,35 1646,920,1671,942,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/554.jpg 1072,897,1098,922,39 1102,897,1127,921,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/55629.jpg 1172,906,1197,931,39 1201,908,1226,932,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/55829.jpg 1290,1014,1308,1034,27 1410,774,1473,837,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/55869.jpg 1596,841,1631,880,2 1580,931,1595,952,9 1558,930,1577,951,28 1600,933,1615,950,35 1432,834,1473,874,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/55980.jpg 1506,756,1580,826,13 1500,669,1591,757,25 1434,583,1522,669,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/55994.jpg 851,955,874,975,26 875,952,899,976,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/56272.jpg 1120,697,1162,741,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/56316.jpg 1123,936,1139,956,9 1085,936,1103,956,28 1103,937,1121,956,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/56763.jpg 414,916,434,941,2 649,918,665,937,9 625,918,645,940,28 669,915,685,938,35 341,919,360,946,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5679.jpg 1532,1332,1572,1374,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/56813.jpg 399,999,449,1054,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/57156.jpg 176,840,202,885,9 114,829,144,875,28 147,837,174,882,35 761,576,806,686,2 568,372,655,536,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/57168.jpg 1561,618,1660,720,25 1468,609,1569,712,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/57504.jpg 935,957,957,983,2 1184,972,1200,990,9 1145,971,1164,990,28 1164,972,1181,991,35 856,961,876,981,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/57702.jpg 1965,788,2005,835,25 2009,794,2044,840,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/58127.jpg 1891,918,1947,983,16 1143,942,1157,958,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/58264.jpg 1860,1010,1900,1048,10 1854,873,1893,914,13 1856,926,1897,967,26 1556,994,1614,1046,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/58420.jpg 596,843,637,886,2 933,969,959,998,26 393,853,421,884,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/58672.jpg 1718,820,1778,881,30
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/5869.jpg 1421,832,1456,869,9 1374,829,1414,867,26 1461,833,1498,877,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/58718.jpg 1292,922,1311,939,1 1718,978,1763,1031,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59183.jpg 1787,735,1867,926,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59301.jpg 1770,834,1790,873,25 1793,833,1815,869,35 850,910,871,932,1 1100,910,1118,930,26 1122,907,1140,927,35 794,913,811,934,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59332.jpg 1588,571,1677,664,25 1679,577,1764,670,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59366.jpg 157,953,173,978,10
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59417.jpg 820,906,850,934,2 1129,935,1147,955,9 1105,936,1126,955,28 1150,936,1171,957,35 711,907,740,936,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59444.jpg 1496,944,1511,959,29 1696,890,1734,932,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59676.jpg 1668,1032,1703,1068,9 1669,998,1702,1028,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59799.jpg 1202,997,1245,1040,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/59813.jpg 1654,967,1721,1049,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/6017.jpg 1472,902,1505,937,29 1436,905,1469,940,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60205.jpg 1840,765,1920,845,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/6026.jpg 892,918,913,938,2 1946,769,1979,822,2 802,918,822,941,36 1873,789,1895,838,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60396.jpg 906,876,930,899,2 731,875,756,905,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60399.jpg 284,697,315,753,28 317,706,350,765,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60477.jpg 336,822,357,878,9 289,810,310,859,28 311,814,334,869,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60569.jpg 1947,938,1965,959,1 1771,918,1792,944,2 1690,911,1718,943,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60583.jpg 1462,1004,1496,1036,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/60811.jpg 488,934,585,1043,2 356,944,453,1043,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61039.jpg 1341,965,1371,999,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61070.jpg 1271,899,1295,925,0 1185,900,1208,921,1 697,818,738,864,2 854,981,878,1003,26 400,845,437,887,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61229.jpg 1276,914,1302,945,25 1028,854,1060,885,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61276.jpg 1968,869,2009,925,25 1072,963,1085,976,28 1085,961,1100,976,35 1967,983,2010,1033,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61411.jpg 196,779,232,839,9 157,772,196,829,26 234,785,269,843,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61546.jpg 1250,762,1310,821,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61760.jpg 406,1072,450,1124,9 405,1130,450,1182,13 461,1134,508,1186,15 462,1072,508,1126,26 521,1073,565,1127,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/61956.jpg 1915,683,2061,914,25 1904,971,2061,1188,35 1200,981,1234,1015,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62105.jpg 180,950,221,998,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62161.jpg 248,784,288,848,21 76,748,130,821,28 172,764,215,831,35 748,143,792,300,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/6218.jpg 1997,738,2036,786,2 1468,971,1492,995,28 1685,678,1737,744,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62373.jpg 1298,1376,1410,1482,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62430.jpg 59,978,98,1022,28 61,929,98,977,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62618.jpg 1470,844,1522,897,25 964,773,1014,822,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62656.jpg 59,1184,79,1208,36 988,1245,1018,1280,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62725.jpg 1164,786,1210,832,25 1204,789,1253,833,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/62810.jpg 1869,894,1921,952,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/63046.jpg 1423,909,1482,964,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/63083.jpg 1563,983,1576,1000,11 1992,903,2009,925,24 2009,902,2023,923,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/63201.jpg 1225,881,1241,899,3 1326,881,1340,899,4 1274,882,1291,899,5 1206,863,1224,880,13 1225,863,1241,880,15 1256,880,1272,897,22 1207,880,1222,896,23 1307,881,1323,898,31 1367,884,1383,900,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/63467.jpg 402,873,466,936,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/63581.jpg 1538,933,1560,957,9 1535,964,1558,989,26 1537,902,1558,927,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/63721.jpg 409,1075,456,1167,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/6405.jpg 1893,843,1919,882,24 1923,846,1953,882,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64120.jpg 1221,988,1240,1009,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64334.jpg 329,714,363,786,31 366,731,398,796,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64409.jpg 1971,970,2017,1019,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64423.jpg 1581,1018,1600,1041,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64687.jpg 1116,1082,1166,1144,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64752.jpg 1276,782,1326,839,9 1215,783,1270,838,26 1332,786,1384,845,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64776.jpg 889,285,1060,421,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/64834.jpg 863,914,884,935,2 789,915,805,934,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65016.jpg 1381,801,1446,866,9 1070,773,1126,825,25 1017,761,1074,813,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65052.jpg 1151,957,1169,974,8 1338,924,1355,943,26 1337,903,1356,921,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65179.jpg 1188,635,1277,718,24 1091,642,1191,726,39
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65185.jpg 1272,811,1308,849,25 1309,810,1349,849,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65237.jpg 1391,870,1442,924,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65242.jpg 1865,653,1921,746,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65268.jpg 1069,894,1097,919,39 1100,894,1128,918,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65305.jpg 1914,610,1986,706,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65397.jpg 1882,729,1935,803,2 1635,690,1701,772,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65427.jpg 1060,872,1096,905,26 1097,869,1131,903,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65640.jpg 1324,900,1348,925,9 1298,900,1319,925,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65729.jpg 1372,968,1416,1010,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/65821.jpg 1597,808,1648,859,28 1650,811,1700,859,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66089.jpg 372,697,426,753,2 1307,747,1364,802,31 1365,751,1422,805,35 78,744,117,796,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66155.jpg 1310,966,1366,1021,2 1054,774,1106,830,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66523.jpg 1126,808,1157,841,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66543.jpg 210,990,265,1057,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66663.jpg 1208,819,1250,861,31 1255,819,1295,861,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66834.jpg 1542,784,1582,829,4 1550,913,1589,954,4 1488,913,1529,956,22 1481,784,1524,826,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66847.jpg 1726,806,1774,857,39 1777,812,1819,862,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/66990.jpg 969,774,1005,812,4 1084,768,1121,808,4 850,780,888,816,5 812,785,846,818,22 925,777,964,809,22 1044,773,1080,805,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67207.jpg 637,460,741,555,3 1367,454,1470,545,4 515,380,614,465,13 635,361,738,449,15 518,476,616,567,23 1627,482,1715,571,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67280.jpg 1553,964,1655,1073,2 1405,964,1511,1075,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67343.jpg 1240,1009,1259,1046,22 1746,944,1772,973,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67356.jpg 1375,995,1429,1055,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67638.jpg 428,698,492,770,2 1177,849,1215,883,9 1138,847,1172,886,28 1222,847,1256,886,35 197,738,247,796,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67800.jpg 1467,861,1503,897,2 1327,852,1361,893,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67837.jpg 1238,919,1265,944,2 1390,938,1406,958,9 1353,938,1370,961,28 1372,938,1388,961,35 1138,914,1165,944,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/67932.jpg 1081,757,1142,817,39 1154,765,1215,818,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68027.jpg 1835,963,1896,1060,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68030.jpg 1293,988,1309,1004,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68154.jpg 533,1112,550,1129,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68416.jpg 902,932,917,946,1 1093,928,1107,944,26 1111,929,1123,945,35 856,932,872,948,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68467.jpg 18,665,103,791,0 15,810,104,939,10
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68473.jpg 196,993,221,1035,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68498.jpg 1387,280,1571,434,25 1588,313,1749,466,35 1200,982,1220,1001,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68516.jpg 1815,461,1923,585,31 1927,493,2026,608,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68547.jpg 1610,913,1652,961,16 1358,969,1385,996,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/6857.jpg 1414,982,1466,1038,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68645.jpg 458,983,485,1016,9 461,948,484,984,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68703.jpg 1172,988,1196,1012,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/68881.jpg 1729,788,1781,846,8 1138,924,1148,933,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69083.jpg 70,150,217,341,9 233,241,339,427,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69366.jpg 1848,806,1921,895,25 1841,896,1916,984,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69379.jpg 738,903,758,928,0 634,899,657,925,1
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/6942.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69452.jpg 1954,871,1982,903,9 1920,866,1952,903,28 1985,873,2008,911,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69681.jpg 507,614,569,681,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69895.jpg 1149,904,1169,925,28 83,895,104,926,29 106,898,125,927,35 1177,905,1196,925,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/69924.jpg 1277,733,1348,801,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70131.jpg 1443,977,1515,1056,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70182.jpg 1321,954,1340,973,9 1290,953,1309,973,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70403.jpg 940,910,963,932,1 1139,893,1157,912,28 1160,892,1180,915,35 822,911,842,934,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70440.jpg 893,775,946,830,12 1405,929,1427,953,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70490.jpg 346,661,421,770,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70510.jpg 1596,1012,1618,1032,43 1598,974,1623,1007,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/70836.jpg 1408,937,1454,1014,17 1060,758,1120,816,25 1005,749,1068,800,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7092.jpg 1772,876,1824,933,9 1770,822,1824,874,25 1769,937,1825,986,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/71088.jpg 1191,929,1212,952,34 1730,950,1750,971,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/71284.jpg 1946,608,2025,706,25 1261,1021,1284,1044,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/71634.jpg 1072,887,1110,923,24
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/71745.jpg 1447,1025,1477,1056,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7192.jpg 1420,804,1451,834,29 1460,803,1492,835,35 248,978,257,992,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7193.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/71994.jpg 1351,989,1375,1016,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72110.jpg 703,1013,735,1044,2 1436,786,1493,844,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72183.jpg 161,1101,184,1133,27 1181,1124,1218,1160,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7219.jpg 1376,968,1388,980,13 1426,918,1447,939,28 1448,917,1467,941,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72246.jpg 1646,910,1669,934,9 1624,910,1644,935,26 1673,910,1694,935,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72278.jpg 1201,933,1221,953,2 1138,929,1159,950,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72387.jpg 546,886,582,923,16 1638,1005,1659,1026,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7248.jpg 1996,697,2048,778,36 653,910,676,937,0 573,911,603,941,1 402,916,422,939,2 758,948,774,964,9 741,945,757,966,28 777,947,792,965,35 325,919,344,943,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72516.jpg 649,843,735,930,16 1068,992,1086,1009,18 655,928,718,991,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72637.jpg 1022,962,1064,1005,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72680.jpg 1294,920,1319,944,2 1203,917,1226,945,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72750.jpg 1478,647,1570,735,9 1294,631,1388,727,28 1394,637,1484,725,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7295.jpg 1903,980,2034,1076,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/72975.jpg 873,960,889,979,12 814,908,835,931,29 815,936,836,960,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73022.jpg 203,966,227,990,2 203,990,229,1020,14 49,913,66,938,24 205,914,226,936,24
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73184.jpg 63,981,89,1012,11
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73241.jpg 671,575,719,696,2 2,863,19,898,9 475,409,551,564,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7343.jpg 59,785,95,835,1 1399,833,1430,873,1 625,930,646,958,7 129,831,161,868,26 1542,854,1564,882,26 159,830,188,870,35 1567,854,1590,882,35 1269,835,1304,870,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73440.jpg 1517,969,1534,986,26 1881,637,1938,712,9 1742,609,1810,692,20 1816,624,1880,702,31 1941,648,1998,725,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73663.jpg 584,931,644,988,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73724.jpg 1385,711,1444,769,25 1455,714,1510,775,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73774.jpg 1868,804,1932,872,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73812.jpg 148,941,211,1006,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/739.jpg 1282,838,1304,860,3 1410,845,1431,866,4 1347,841,1368,863,5 1255,812,1276,833,13 1281,813,1302,834,15 1320,840,1342,862,22 1255,837,1276,859,23 1383,843,1405,865,31 1462,847,1483,869,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73933.jpg 1897,870,1922,901,26 1683,845,1713,880,29 1923,872,1948,903,35 1717,848,1746,884,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/73939.jpg 810,884,841,916,28 844,883,876,917,35 615,857,676,918,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74171.jpg 1661,951,1748,1048,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74290.jpg 1405,890,1425,918,9 1385,889,1407,916,26 1428,892,1446,919,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74457.jpg 1758,954,1823,1047,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74480.jpg 1887,784,1919,820,14
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74553.jpg 35,1051,52,1071,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74564.jpg 810,742,850,780,15
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74731.jpg 1284,948,1332,994,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74791.jpg 1167,850,1232,969,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74857.jpg 266,949,294,994,7 48,753,84,825,9 1387,876,1410,915,9 91,765,131,830,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/74972.jpg 1553,617,1621,685,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/75448.jpg 12,957,48,1006,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/75477.jpg 1302,849,1339,886,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/75494.jpg 507,967,525,1013,12 1150,927,1163,943,25 1164,927,1177,943,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/75514.jpg 428,908,447,933,1 786,959,807,982,35 1739,601,1794,694,36 392,910,408,932,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/75658.jpg 348,879,378,909,0 218,882,251,916,1 151,888,175,913,28 182,891,202,910,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/75830.jpg 969,951,981,966,1 912,950,927,968,36 1080,850,1111,886,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/76197.jpg 1492,929,1508,947,26 1361,925,1378,941,29 1510,930,1527,947,35 1382,923,1398,944,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/76262.jpg 328,959,361,990,36 1509,841,1545,879,25 1548,842,1582,878,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/76399.jpg 1234,828,1273,873,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/76439.jpg 313,1015,332,1056,2 1875,1000,1901,1038,2 1164,920,1185,940,26 282,1016,304,1060,36 1841,1001,1865,1040,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/76775.jpg 1643,92,1864,298,28 1876,160,2043,364,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/76967.jpg 1872,1003,1890,1021,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/77343.jpg 213,964,234,997,17
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/77438.jpg 1419,953,1442,975,8 746,973,765,997,36 960,969,978,990,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/77496.jpg 168,680,229,774,17 284,710,329,797,19
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/77501.jpg 1612,747,1660,801,0 667,624,725,682,1 569,993,582,1006,2 1509,741,1560,794,13 1144,621,1204,676,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/77600.jpg 1733,715,1795,788,29 1734,794,1797,867,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/77987.jpg 948,985,966,1034,0 712,996,759,1064,1 268,964,312,1052,2 758,972,788,1046,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78233.jpg 1347,861,1381,896,0 1230,860,1264,898,1 802,851,837,886,2 646,858,680,892,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78363.jpg 1597,980,1666,1048,1 579,986,635,1047,2 1593,888,1660,955,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78492.jpg 1135,959,1172,1000,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/7857.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78591.jpg 950,978,964,991,2 454,729,525,807,2 1278,1009,1296,1025,7 1277,799,1328,850,29 1389,860,1436,911,34 1330,800,1381,849,35 882,977,894,991,36 134,767,189,834,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78624.jpg 1310,877,1332,899,1 1496,868,1518,893,28 1519,871,1542,897,35 1154,874,1176,898,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78664.jpg 1139,906,1160,927,9 42,687,97,759,12 1117,906,1137,926,29 1659,750,1710,798,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78753.jpg 1253,973,1277,997,24 1252,997,1280,1023,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78825.jpg 1241,723,1306,788,9 1164,725,1231,782,26 1308,726,1372,790,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78838.jpg 1115,1023,1134,1046,26 1541,897,1639,1005,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78924.jpg 784,886,812,915,1 1135,894,1159,922,26 1164,896,1191,920,35 700,887,728,914,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/78974.jpg 1678,997,1754,1069,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79029.jpg 1215,950,1240,974,31 1215,976,1240,1001,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79092.jpg 418,631,510,730,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79137.jpg 538,846,555,889,0 1946,920,1969,945,0 1726,913,1749,938,2 1652,908,1673,935,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79444.jpg 260,172,405,378,9 66,72,256,288,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79572.jpg 862,988,895,1019,2 255,1008,280,1038,7 1547,981,1582,1019,7
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79753.jpg 1490,718,1642,870,25 1115,935,1143,962,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79910.jpg 1176,976,1217,1016,18 1447,991,1542,1084,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79969.jpg 1623,829,1681,888,29 1695,916,1741,974,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/79981.jpg 1365,914,1390,940,8 1906,597,1974,681,21
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/80058.jpg 412,838,444,871,0 265,849,297,882,1
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/80152.jpg 1883,858,1945,927,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/80215.jpg 876,968,898,991,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/80279.jpg 1843,947,1955,1058,10 1846,837,1954,945,13 1201,845,1254,901,14 996,772,1054,829,25 1055,777,1109,831,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/80308.jpg 1161,876,1194,908,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8031.jpg 722,959,747,986,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/80895.jpg 1892,594,1978,696,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81292.jpg 1841,912,1882,954,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81422.jpg 1583,1015,1603,1036,16 1404,980,1421,997,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81447.jpg 1613,893,1788,1067,35 1143,981,1169,1006,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81601.jpg 457,582,502,672,4 557,649,589,724,4 312,489,374,596,5 237,442,309,560,22 413,552,458,644,22 528,629,557,706,22
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81605.jpg 1089,201,1244,308,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81670.jpg 714,908,750,943,31 1158,873,1189,902,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81671.jpg 1234,917,1260,944,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81688.jpg 603,951,618,989,12 455,803,498,864,29 455,877,498,938,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81788.jpg 802,596,916,701,21
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81888.jpg 428,819,453,874,9 368,814,399,861,26 399,820,424,863,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8191.jpg 1416,984,1446,1014,18 995,574,1099,671,28 1358,585,1455,678,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/81946.jpg 558,408,656,497,3 1606,362,1712,455,4 1350,343,1464,432,22 367,454,445,538,23 801,365,907,456,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82059.jpg 1815,889,1890,969,11 756,960,773,980,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82195.jpg 1566,952,1600,986,16 1569,990,1593,1012,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8221.jpg 79,850,105,888,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82220.jpg 1434,828,1457,848,10 1401,824,1426,847,13 1398,865,1422,886,14 1508,916,1535,944,15 1461,863,1487,886,21 1431,865,1456,888,26 1153,939,1187,972,8 540,982,571,1011,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82245.jpg 1374,978,1454,1066,8
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82392.jpg 1449,629,1516,698,31 1521,629,1586,693,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8241.jpg 1241,970,1279,1073,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82416.jpg 652,853,699,943,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/82459.jpg 1597,962,1620,984,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83041.jpg 1491,865,1526,899,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83146.jpg 1171,950,1196,976,10 884,876,914,905,28 995,877,1023,907,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83476.jpg 1188,972,1220,1004,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83501.jpg 1818,890,1849,924,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83503.jpg 1066,927,1084,946,9 1043,928,1061,944,26 1087,927,1105,946,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8362.jpg 812,940,836,962,24
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83630.jpg 1631,1000,1671,1044,9 1626,953,1669,994,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83895.jpg 823,861,857,896,2 1132,915,1152,941,9 1276,918,1308,950,13 1107,914,1127,938,31 1154,917,1175,939,35 687,862,719,896,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83908.jpg 1325,714,1408,792,26 564,897,594,929,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83919.jpg 439,633,505,703,2 70,696,115,754,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/83991.jpg 1870,1000,1924,1049,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/84144.jpg 1177,918,1221,971,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/84175.jpg 1720,891,1746,917,0 1621,882,1651,913,1 1368,786,1416,837,2 1124,782,1176,832,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/84287.jpg 13,1004,70,1060,9 16,940,69,1001,24
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/84371.jpg 763,901,781,921,1 639,908,659,927,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8447.jpg 349,923,393,971,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/84859.jpg 1780,510,1894,642,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/84932.jpg 330,945,424,1079,17 329,780,419,906,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85003.jpg 1629,982,1678,1037,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85076.jpg 1232,842,1266,881,8 24,937,67,986,13 1298,844,1333,881,14 1266,844,1299,880,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85082.jpg 43,552,117,658,2 1309,727,1370,792,9 1172,727,1235,792,28 1237,729,1303,794,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85177.jpg 644,532,679,605,28
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85262.jpg 532,1026,580,1080,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85335.jpg 825,979,850,1039,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85351.jpg 1232,57,1437,196,5 309,118,471,255,5 745,48,952,180,22 20,224,134,348,22 1710,155,1861,288,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85446.jpg 1454,868,1500,920,25 1034,765,1088,814,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85532.jpg 182,945,234,1008,2
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85636.jpg 1018,776,1069,828,9 962,779,1012,830,26 1075,777,1127,826,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/85773.jpg 1176,650,1272,735,2 915,656,1003,739,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86072.jpg 1592,965,1668,1058,9 1835,989,1874,1032,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86131.jpg 1350,893,1373,920,2 1451,924,1470,945,26 1472,926,1490,946,35 1242,892,1268,920,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86375.jpg 1137,548,1245,650,26 1251,554,1358,654,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86417.jpg 130,1011,156,1040,27 1321,921,1340,939,39 1345,923,1365,941,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86506.jpg 1048,862,1091,906,0 888,867,924,904,1 492,865,526,904,2 929,923,955,949,28 375,878,411,913,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86608.jpg 1632,882,1666,916,1 122,900,143,928,13 1766,952,1790,974,26 1766,976,1789,1000,35 1515,875,1547,907,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86693.jpg 1076,871,1105,898,39 1111,869,1142,900,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86763.jpg 1364,875,1419,945,9 1365,806,1412,869,24
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/86944.jpg 1548,862,1576,896,9 1516,862,1546,895,26 1576,865,1606,899,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8697.jpg 902,568,1020,677,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87012.jpg 1394,733,1478,813,12 82,870,141,925,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87110.jpg 1765,914,1787,938,9 1739,914,1762,938,26 1789,911,1810,936,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8714.jpg 1510,445,1633,562,25 1386,438,1522,553,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87281.jpg 1508,776,1550,820,0 874,836,907,872,1 1418,774,1459,819,26 1279,769,1324,813,28 1230,767,1276,813,30 1329,771,1374,814,35 661,848,694,880,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87288.jpg 1223,929,1245,949,35 1843,974,1865,998,25 1004,968,1027,991,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87379.jpg 962,983,985,1006,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87495.jpg 181,657,237,736,2 1755,977,1778,1000,9 1653,997,1674,1016,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87513.jpg 1933,1203,1970,1258,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87590.jpg 1119,942,1136,959,13 1536,1050,1572,1086,27 1760,989,1781,1017,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87714.jpg 46,1013,88,1053,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87749.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/87927.jpg 1053,633,1119,696,28 1132,635,1200,700,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88008.jpg 1560,1053,1590,1084,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88057.jpg 820,1014,849,1044,2 953,888,982,918,29 685,892,713,922,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8806.jpg 1070,776,1118,824,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88140.jpg 870,862,901,893,31 632,866,665,900,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88313.jpg 1184,845,1244,905,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88472.jpg 202,553,244,634,2 2011,851,2035,881,2 1843,835,1871,868,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88545.jpg 1705,927,1721,949,9 1693,930,1705,948,28 1726,928,1740,949,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88759.jpg 550,969,581,1007,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88825.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88940.jpg 1670,973,1714,1020,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/88999.jpg 751,633,837,719,29 792,885,815,911,30 782,943,836,998,32 841,638,928,723,35 841,887,853,908,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89003.jpg 116,1073,184,1136,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89031.jpg 1356,934,1378,965,0 1283,932,1305,961,1 1055,962,1070,981,9 1034,963,1050,981,26 1074,964,1090,981,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89199.jpg 61,950,189,1085,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89278.jpg 1346,624,1450,722,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8940.jpg 1002,870,1025,894,28 1028,869,1052,895,35 1075,872,1100,895,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89421.jpg 1480,951,1494,967,36 1720,242,1837,359,38
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89453.jpg 1614,743,1668,805,29 1160,897,1181,918,30 1524,957,1564,998,32 1667,752,1719,813,35 1206,898,1227,920,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89545.jpg 1281,925,1301,945,31 1302,926,1323,946,35 501,827,627,972,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89558.jpg 484,1003,566,1188,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89758.jpg 1417,809,1470,866,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89759.jpg 1486,842,1528,886,28 1530,843,1564,893,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/89802.jpg 889,942,911,963,2 818,946,837,966,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/8998.jpg 1258,973,1271,1017,27 1308,970,1322,1028,27 1398,962,1429,1036,27 1582,936,1644,1060,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/90037.jpg 1101,306,1297,460,25 898,278,1105,408,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/90060.jpg 301,454,372,575,28 372,493,432,608,35 471,560,525,661,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/90209.jpg 268,610,323,694,0 5,516,76,617,1 1509,905,1526,929,9 1486,906,1505,927,26 1528,905,1545,928,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/90210.jpg 1043,592,1098,650,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/90420.jpg 421,433,782,754,39 415,747,776,1084,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/90985.jpg 1748,867,1771,894,9 1928,781,1967,829,16 1717,865,1742,893,29 1776,864,1804,896,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91058.jpg 331,966,370,996,7 1818,966,1850,998,7
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91207.jpg 1672,924,1697,952,1 367,911,382,929,28 386,912,402,931,35 1533,927,1558,953,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91213.jpg 1563,919,1581,936,1 1353,912,1371,933,2 1193,902,1213,927,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91276.jpg 700,810,747,861,1 969,967,980,978,1 537,821,577,867,36 929,969,940,980,36 1038,942,1055,956,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91516.jpg 384,984,426,1042,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91601.jpg 169,939,221,1007,21 501,965,526,1013,21 169,865,217,935,27 357,956,418,1017,27 498,918,529,963,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91845.jpg 617,950,668,1013,2 1336,828,1384,870,9 1170,725,1253,804,12 1241,830,1289,876,28 1288,828,1334,873,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91979.jpg 1654,961,1686,999,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/91985.jpg 21,278,162,454,9
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92005.jpg 711,709,807,884,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92113.jpg 1118,992,1197,1063,18
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92151.jpg 1040,729,1130,812,19 657,722,746,810,26 1410,1010,1532,1121,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92222.jpg 1885,913,1961,1006,33
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92253.jpg 997,366,1173,509,36 1221,940,1240,957,36 1288,988,1316,1017,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92419.jpg 438,878,461,909,29 460,881,485,911,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92469.jpg 1391,998,1430,1038,23
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/92801.jpg 935,924,951,943,9 914,925,932,943,25 756,825,791,864,26 953,923,973,943,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/9291.jpg 692,988,747,1046,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93043.jpg 1617,926,1672,980,28 1614,981,1670,1040,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93065.jpg 1162,707,1210,751,15 464,944,490,972,2 1600,750,1636,791,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93189.jpg 89,954,102,974,0 44,951,61,971,1 905,951,921,968,2 1960,871,1983,904,2 839,952,860,972,36 1890,878,1910,907,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/9324.jpg 403,915,415,932,2 344,907,363,929,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93262.jpg 604,574,674,708,25
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93420.jpg 841,944,864,965,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93504.jpg 930,955,943,968,2 1090,959,1102,973,9 1231,978,1262,1007,11 1062,958,1076,972,28 1076,959,1089,973,35 881,955,893,968,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93521.jpg 51,913,72,944,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/9356.jpg 437,907,457,930,0 365,914,384,935,1 140,911,155,930,2 1656,435,1725,573,2 88,917,103,934,36 1477,601,1519,699,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93742.jpg 1900,1005,1922,1031,18 1433,919,1452,940,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93776.jpg 1290,986,1313,1009,41
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93780.jpg 661,985,693,1020,7 1261,798,1299,839,29
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93818.jpg 1983,690,2044,766,2 1836,871,1858,904,9 1783,865,1807,899,28 1810,870,1834,901,35 1698,647,1776,734,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93906.jpg 1527,987,1554,1015,16
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/93956.jpg 1987,949,2017,983,25 1987,984,2020,1018,35 1483,1083,1504,1112,36 1483,1051,1506,1077,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94244.jpg 360,1067,388,1097,40
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94248.jpg 1778,862,1836,930,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94249.jpg 1963,572,2055,714,31 1972,721,2056,875,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94411.jpg 846,946,876,977,2 842,880,873,909,10 849,922,870,944,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94555.jpg 17,637,76,721,26 1773,848,1804,890,26
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94598.jpg 43,868,63,892,2 1233,930,1253,950,2 1163,928,1181,948,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94770.jpg 1166,1067,1216,1118,16 1998,834,2012,864,28 1984,840,1997,869,30 2013,832,2026,865,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/94826.jpg 272,822,362,916,2 105,618,166,714,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/949.jpg 940,900,960,918,13 1039,899,1056,915,14 965,900,982,917,15 1039,917,1054,930,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95025.jpg 1025,736,1092,802,17 1102,730,1167,798,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95135.jpg 1302,969,1326,994,17 1509,977,1536,1012,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95176.jpg 1444,877,1479,910,2 504,949,532,981,7 1738,904,1763,931,9 1687,901,1710,929,28 1713,905,1737,932,35 1312,879,1347,912,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95257.jpg
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95386.jpg 1656,913,1696,954,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95482.jpg 1287,929,1343,986,8 1464,943,1507,987,9 1457,882,1517,941,35 376,920,433,978,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95517.jpg 1565,798,1596,830,13 1601,801,1631,834,14
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95594.jpg 1162,950,1204,996,34
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/95616.jpg 156,978,188,1013,21 0,970,35,1015,27 156,930,193,972,27
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/96382.jpg 1234,678,1298,736,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/96439.jpg 729,926,746,945,2 659,932,676,953,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/96977.jpg 1918,930,1945,961,28 1917,970,1944,999,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/97025.jpg 894,964,935,1000,42
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/97607.jpg 1094,906,1116,930,8 1068,910,1088,930,10 1041,908,1062,930,13 1068,937,1090,962,17 1040,940,1064,962,31
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/97670.jpg 159,866,192,906,1 77,983,91,998,2 282,952,306,980,13
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/97842.jpg 459,936,500,977,12
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98058.jpg 366,716,419,772,1 140,725,194,777,13 313,720,364,773,19
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98088.jpg 1517,933,1582,1001,32
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98180.jpg 124,673,170,751,31 174,692,223,766,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98384.jpg 943,892,962,914,36
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98447.jpg 603,1023,655,1073,43
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98646.jpg 1142,935,1160,956,31 1162,936,1181,954,35
+E:\LenovoXiaoxing\Code\Bubbliiiiing\Object_Detection\yolov5-pytorch_01\VOCdevkit/VOC2007/JPEGImages/98686.jpg 706,781,794,978,42
